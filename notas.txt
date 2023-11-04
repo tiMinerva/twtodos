@@ -9,3 +9,9 @@
 
 #ATIVAR A EXECUÇÃO DE COMANDO PYTHON NO TERMINAL
     c:/Users/Miguel/Desktop/twtodos/.venv/Scripts/activate.bat
+
+#INSTALAR mysql
+pip install pymysql
+pip install mysqlclient
+
+py manage.py startapp 
