@@ -1,6 +1,7 @@
 .gitgnore
 .env
 db.sqlite3
+notas.txt
 
 # Django #
 *.log

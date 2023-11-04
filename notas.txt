@@ -1,0 +1,11 @@
+#CRIAR UM VERSIONAMENTO DE BANCO DE DADOS (precisa parar a aplicação)
+    python manage.py makemigrations
+
+#EXECUTAR A MIGRAÇÃO DO BANCO DE DADOS
+    python manage.py migrate
+
+#EXECUTAR A APLICAÇÃO 
+    py manage.py runserver
+
+#ATIVAR A EXECUÇÃO DE COMANDO PYTHON NO TERMINAL
+    c:/Users/Miguel/Desktop/twtodos/.venv/Scripts/activate.bat
